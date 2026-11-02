@@ -46,3 +46,32 @@ By the end of this lesson, I aim to understand:
 ---
 
 **Next:** Complete Lesson 01 and document the practical exercises.
+
+## Part 1: What is Data?
+
+### Definition
+
+Data refers to collected facts, observations,
+and measurements about people, objects, or events.
+
+### Main Types of Data
+
+**Quantitative Data**
+- Numerical information.
+- Examples: Age, marks, study hours.
+
+**Qualitative Data**
+- Categorical or descriptive information.
+- Examples: Faculty, preferred platform, satisfaction level.
+
+### Why Data Matters in Research
+
+Data provides evidence that helps researchers
+answer research questions and interpret findings.
+
+### Knowledge Check
+
+- [ ] Understand the meaning of data.
+- [ ] Identify quantitative data.
+- [ ] Identify qualitative data.
+- [ ] Understand why researchers collect data.
