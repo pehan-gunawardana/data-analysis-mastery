@@ -75,3 +75,39 @@ answer research questions and interpret findings.
 - [ ] Identify quantitative data.
 - [ ] Identify qualitative data.
 - [ ] Understand why researchers collect data.
+
+## Part 2: What is Data Analysis?
+
+### Definition
+
+Data analysis is the process of inspecting, cleaning,
+organizing, transforming, and interpreting data to
+discover useful information.
+
+### Three Important Concepts
+
+1. Data Collection - Gathering information.
+2. Data Analysis - Examining and processing data.
+3. Data Interpretation - Understanding the results.
+
+### Example
+
+Research topic:
+The Relationship Between Social Media Usage
+and Academic Performance Among University Students.
+
+### Common Data Analysis Tools
+
+- Microsoft Excel
+- IBM SPSS Statistics
+- Jamovi
+- Python
+- R
+- Power BI
+- NVivo
+
+### Key Learning Points
+
+- [ ] Understand Data Analysis.
+- [ ] Differentiate Collection, Analysis and Interpretation.
+- [ ] Identify common data analysis tools.
